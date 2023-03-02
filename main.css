@@ -1,0 +1,21 @@
+body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#proximab_img {
+    border-radius: 34px;
+    height:200px;
+    width:200px;
+}
